@@ -1,0 +1,12 @@
+.small {
+    font-size: 75%;
+}
+
+.ekiden td {
+    width:188px;
+    height:109px;
+    text-align:center;
+    vertical-align:middle;
+    border-color:#c0c0c0;
+    border-width:1px;
+}
